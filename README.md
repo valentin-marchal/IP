@@ -1,2 +1,0 @@
-# IP
-my first repository 
